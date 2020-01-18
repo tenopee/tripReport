@@ -1,0 +1,13 @@
+{
+  "name": "Trip-Report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tenopee/tripReport",
+  "author": "tenopee <tenotenotenopee@gmail.com>",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
